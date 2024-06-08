@@ -34,17 +34,29 @@
     background-color: lightgreen;
     color: chocolate;
 }
-.yes,.yesyes {
+.yes {
     padding-top: 10%;
 }
-.yes,.yesyes h1 {
+.yes h1 {
     font-size: 50px;
     color: darkgreen;
     padding: 10px;
 }
-.yes,.yesyes h2 {
+.yes h2 {
     font-size: 25px;
     color: chocolate;
+}
+.yesyes {
+  padding-top: 10%;
+}
+.yesyes h1 {
+  font-size: 50px;
+  color: darkgreen;
+  padding: 10px;
+}
+.yesyes h2 {
+  font-size: 25px;
+  color: chocolate;
 }
   .cake {
     width: 100%;
